@@ -1,14 +1,16 @@
 h1   {
     font-weight: lighter;
+    font-size: 25px;
     }
     p{
          text-align: justify;
     }
 h2{
-         font-weight: lighter;
+         font-weight: bold;
     }
     p{
          text-align: justify;
+         font-size: 18px;
     }
 img.top{
     display: block;
@@ -27,11 +29,7 @@ nav#menu ul{
 nav#menu li{
     display: inline-block;
     padding: 10px;
-   
-}
-nav#menu li:hover{
-   text-decoration: underline;
-}
+   }
 div#interface{
     margin-left: 20%;
     margin-right: 25%;
@@ -66,5 +64,5 @@ p.siga{
     color: grey;
 }
 .under :hover{
-    text-decoration: underline;
+    text-decoration: none;
 }
